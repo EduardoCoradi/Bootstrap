@@ -1,0 +1,57 @@
+
+body {
+    background-color: #010103;
+    color: #d3ad7f;
+}
+
+p {
+    text-align: justify;
+}
+
+#sobre p {
+    color: #fff;
+}
+
+#Produtos h2 {
+    padding-left: 2.5rem;
+}
+
+section {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+input, textarea {
+    margin-bottom: 1rem;
+}
+
+.card {
+    /*width: 32%;*/
+    float: left;
+    margin: 30px;
+    background-color: #13131a;
+    border: solid 1px whitesmoke;
+    border-radius: 10px;
+}
+
+.card img {
+    margin: 5px;
+    padding: 5rem;
+    border-radius: 100%;
+}
+
+div .card-body {
+    background-color: transparent;
+    text-align: center;
+}
+
+a.btn.btn-primary {
+    background-color: whitesmoke;
+    border-color: whitesmoke;
+    color: #13131a;
+}
+
+a.btn-lg.btn-success, button.btn-lg.btn-success {
+    background-color: #d3ad7f;
+    color: #13131a;
+}
