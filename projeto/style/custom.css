@@ -4,12 +4,20 @@ body {
     color: #d3ad7f;
 }
 
+header .container a {
+    color: #fff;
+}
+
 p {
     text-align: justify;
 }
 
 #sobre p {
     color: #fff;
+}
+
+#sobre img {
+    border-radius: 10%;
 }
 
 #Produtos h2 {
@@ -46,12 +54,20 @@ div .card-body {
 }
 
 a.btn.btn-primary {
-    background-color: whitesmoke;
-    border-color: whitesmoke;
-    color: #13131a;
+    background-color: #fff;
+    border-color: #fff;
+    color: #010103;
 }
 
 a.btn-lg.btn-success, button.btn-lg.btn-success {
     background-color: #d3ad7f;
     color: #13131a;
+}
+
+a.btn.btn-primary:hover {
+    background-color: rgb(185, 185, 185);
+}
+
+a.btn-lg.btn-success:hover, button.btn-lg.btn-success:hover {
+    background-color: #7e623f;
 }
