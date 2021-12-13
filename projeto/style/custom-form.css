@@ -1,0 +1,22 @@
+textarea.form-control {
+    width: 100% !important;
+    display: block;
+}
+
+.modal-content {
+    color: #13131a;
+}
+
+.btn.btn-success {
+    background-color: #36363f;
+    color: #fff;
+    align-content: center;
+}
+
+.btn.btn-success:hover {
+    background-color: #010103;
+}
+
+#modal-01 {
+    float: left;
+}

@@ -2,6 +2,7 @@
 body {
     background-color: #010103;
     color: #d3ad7f;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
 }
 
 header .container a {
@@ -62,6 +63,7 @@ a.btn.btn-primary {
 a.btn-lg.btn-success, button.btn-lg.btn-success {
     background-color: #d3ad7f;
     color: #13131a;
+    float: right;
 }
 
 a.btn.btn-primary:hover {
